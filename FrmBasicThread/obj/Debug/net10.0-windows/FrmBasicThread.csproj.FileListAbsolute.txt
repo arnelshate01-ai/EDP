@@ -1,0 +1,16 @@
+C:\Users\hate.401891\source\repos\FrmBasicThread\bin\Debug\net10.0-windows\FrmBasicThread.exe
+C:\Users\hate.401891\source\repos\FrmBasicThread\bin\Debug\net10.0-windows\FrmBasicThread.deps.json
+C:\Users\hate.401891\source\repos\FrmBasicThread\bin\Debug\net10.0-windows\FrmBasicThread.runtimeconfig.json
+C:\Users\hate.401891\source\repos\FrmBasicThread\bin\Debug\net10.0-windows\FrmBasicThread.dll
+C:\Users\hate.401891\source\repos\FrmBasicThread\bin\Debug\net10.0-windows\FrmBasicThread.pdb
+C:\Users\hate.401891\source\repos\FrmBasicThread\obj\Debug\net10.0-windows\FrmBasicThread.Form1.resources
+C:\Users\hate.401891\source\repos\FrmBasicThread\obj\Debug\net10.0-windows\FrmBasicThread.csproj.GenerateResource.cache
+C:\Users\hate.401891\source\repos\FrmBasicThread\obj\Debug\net10.0-windows\FrmBasicThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hate.401891\source\repos\FrmBasicThread\obj\Debug\net10.0-windows\FrmBasicThread.AssemblyInfoInputs.cache
+C:\Users\hate.401891\source\repos\FrmBasicThread\obj\Debug\net10.0-windows\FrmBasicThread.AssemblyInfo.cs
+C:\Users\hate.401891\source\repos\FrmBasicThread\obj\Debug\net10.0-windows\FrmBasicThread.csproj.CoreCompileInputs.cache
+C:\Users\hate.401891\source\repos\FrmBasicThread\obj\Debug\net10.0-windows\FrmBasicThread.dll
+C:\Users\hate.401891\source\repos\FrmBasicThread\obj\Debug\net10.0-windows\refint\FrmBasicThread.dll
+C:\Users\hate.401891\source\repos\FrmBasicThread\obj\Debug\net10.0-windows\FrmBasicThread.pdb
+C:\Users\hate.401891\source\repos\FrmBasicThread\obj\Debug\net10.0-windows\FrmBasicThread.genruntimeconfig.cache
+C:\Users\hate.401891\source\repos\FrmBasicThread\obj\Debug\net10.0-windows\ref\FrmBasicThread.dll
