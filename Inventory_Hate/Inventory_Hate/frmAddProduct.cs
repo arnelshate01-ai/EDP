@@ -79,6 +79,8 @@ namespace Inventory
 
                 gridViewProductList.DataSource = showProductList;
                 gridViewProductList.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
+
+                Clear();
             }
             catch (StringFormatException ex)
             {
@@ -94,14 +96,18 @@ namespace Inventory
             }
             finally
             {
-                txtProductName.Clear();
-                txtQuantity.Clear();
-                txtSellPrice.Clear();
-                richTxtDescription.Clear();
-                cbCategory.SelectedIndex = -1;
-                dtPickerMfgDate.Value = DateTime.Today;
-                dtPickerExpDate.Value = DateTime.Today;
+                
             }
+        }
+        public void Clear()
+        {
+            txtProductName.Clear();
+            txtQuantity.Clear();
+            txtSellPrice.Clear();
+            richTxtDescription.Clear();
+            cbCategory.SelectedIndex = -1;
+            dtPickerMfgDate.Value = DateTime.Today;
+            dtPickerExpDate.Value = DateTime.Today;
         }
     }
     class StringFormatException : Exception

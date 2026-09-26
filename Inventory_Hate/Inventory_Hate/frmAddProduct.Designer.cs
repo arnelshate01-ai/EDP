@@ -203,7 +203,7 @@
             this.btnAddProduct.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAddProduct.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnAddProduct.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(219)))), ((int)(((byte)(149)))), ((int)(((byte)(88)))));
-            this.btnAddProduct.Location = new System.Drawing.Point(15, 283);
+            this.btnAddProduct.Location = new System.Drawing.Point(16, 283);
             this.btnAddProduct.Name = "btnAddProduct";
             this.btnAddProduct.Size = new System.Drawing.Size(103, 33);
             this.btnAddProduct.TabIndex = 17;
