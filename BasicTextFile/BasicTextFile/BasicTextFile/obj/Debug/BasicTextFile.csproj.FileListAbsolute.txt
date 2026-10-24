@@ -1,0 +1,35 @@
+D:\Users\Janel\source\repos\BasicTextFile\BasicTextFile\bin\Debug\BasicTextFile.exe.config
+D:\Users\Janel\source\repos\BasicTextFile\BasicTextFile\bin\Debug\BasicTextFile.exe
+D:\Users\Janel\source\repos\BasicTextFile\BasicTextFile\bin\Debug\BasicTextFile.pdb
+D:\Users\Janel\source\repos\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.csproj.AssemblyReference.cache
+D:\Users\Janel\source\repos\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.FrmLab1.resources
+D:\Users\Janel\source\repos\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.FrmFileName.resources
+D:\Users\Janel\source\repos\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.Properties.Resources.resources
+D:\Users\Janel\source\repos\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.csproj.GenerateResource.cache
+D:\Users\Janel\source\repos\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.csproj.CoreCompileInputs.cache
+D:\Users\Janel\source\repos\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.exe
+D:\Users\Janel\source\repos\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.pdb
+D:\download folder_Janel\BasicTextFile\BasicTextFile\BasicTextFile\bin\Debug\BasicTextFile.exe.config
+D:\download folder_Janel\BasicTextFile\BasicTextFile\BasicTextFile\bin\Debug\BasicTextFile.exe
+D:\download folder_Janel\BasicTextFile\BasicTextFile\BasicTextFile\bin\Debug\BasicTextFile.pdb
+D:\download folder_Janel\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.csproj.AssemblyReference.cache
+D:\download folder_Janel\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.FrmLab1.resources
+D:\download folder_Janel\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.FrmFileName.resources
+D:\download folder_Janel\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.Properties.Resources.resources
+D:\download folder_Janel\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.csproj.GenerateResource.cache
+D:\download folder_Janel\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.csproj.CoreCompileInputs.cache
+D:\download folder_Janel\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.exe
+D:\download folder_Janel\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.pdb
+D:\download folder_Janel\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.frmRegistration.resources
+C:\Users\hate.401891\Downloads\BasicTextFile 1\BasicTextFile\BasicTextFile\BasicTextFile\bin\Debug\BasicTextFile.exe.config
+C:\Users\hate.401891\Downloads\BasicTextFile 1\BasicTextFile\BasicTextFile\BasicTextFile\bin\Debug\BasicTextFile.exe
+C:\Users\hate.401891\Downloads\BasicTextFile 1\BasicTextFile\BasicTextFile\BasicTextFile\bin\Debug\BasicTextFile.pdb
+C:\Users\hate.401891\Downloads\BasicTextFile 1\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.csproj.AssemblyReference.cache
+C:\Users\hate.401891\Downloads\BasicTextFile 1\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.FrmLab1.resources
+C:\Users\hate.401891\Downloads\BasicTextFile 1\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.FrmFileName.resources
+C:\Users\hate.401891\Downloads\BasicTextFile 1\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.frmRegistration.resources
+C:\Users\hate.401891\Downloads\BasicTextFile 1\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.Properties.Resources.resources
+C:\Users\hate.401891\Downloads\BasicTextFile 1\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.csproj.GenerateResource.cache
+C:\Users\hate.401891\Downloads\BasicTextFile 1\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.csproj.CoreCompileInputs.cache
+C:\Users\hate.401891\Downloads\BasicTextFile 1\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.exe
+C:\Users\hate.401891\Downloads\BasicTextFile 1\BasicTextFile\BasicTextFile\BasicTextFile\obj\Debug\BasicTextFile.pdb
